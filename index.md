@@ -19,9 +19,9 @@ Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the
 Publications
 </h2>
 <p>
-Lim, Han-Dong, and Donghwan Lee. "Regularized Q-learning." Advances in Neural Information Processing Systems 37 (2024): 129855-129887.
+<a href="https://openreview.net/forum?id=4sueqIwb4o)"><u>Lim, Han-Dong</u>, and Donghwan Lee. "Regularized Q-learning." Advances in Neural Information Processing Systems 37 (2024): 129855-129887.</a>
 </p>
 
 <p>
-Lim, Han-Dong, and Donghwan Lee. "Backstepping temporal-difference learning." International Conference on Learning Representations, ICLR 2023. International Conference on Learning Representations, 2023.
+<a href="https://openreview.net/forum?id=YPChvOgRXRA"><u>Lim, Han-Dong</u>, and Donghwan Lee. "Backstepping temporal-difference learning." International Conference on Learning Representations, ICLR 2023. International Conference on Learning Representations, 2023.</a>
 </p>
