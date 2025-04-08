@@ -13,6 +13,7 @@ header:
     - name: Home
       slug: /
     - name: Publication
+      slug : /publication
 
 footer:
   show_powered_by: true
