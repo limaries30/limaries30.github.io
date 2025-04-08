@@ -6,9 +6,8 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the Korea Advanced Institute of Science and Technology (KAIST), where I am fortunate to be advised by <a href="https://sites.google.com/site/donghwanleehome">Professor Donghwan Lee</a>. I received my Bachelor's degree from Korea University in 2021 and completed my Master's degree at KAIST in 2023.</p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+ My research centers on the theoretical underpinnings of reinforcement learning and control theory, with a particular interest in developing rigorous frameworks that bridge the gap between learning-based decision-making and classical control methodologies.
 </p>
