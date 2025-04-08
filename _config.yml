@@ -13,7 +13,6 @@ header:
     - name: Home
       slug: /
     - name: Publication
-    - name: Blog
 
 footer:
   show_powered_by: true
