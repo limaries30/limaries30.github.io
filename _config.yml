@@ -3,7 +3,7 @@
 
 title: Han-Dong Lim
 description: This is personal page of Han-Dong Lim.
-baseurl: "./"
+baseurl: "/bay"
 url: "https://eliottvincent.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
