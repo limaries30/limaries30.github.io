@@ -6,7 +6,7 @@
 
 
 @use "variables" with (
-  $base-url: "{{ site.baseurl }}"
+  $base-url: "{{ https://eliottvincent.github.io/bay }}"
 );
 @use "mixins";
 @use "extends";
