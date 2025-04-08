@@ -9,6 +9,10 @@ items:
     description: Han-Dong Lim, Donghwan Lee
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
-<br />
-<br />
+<p>
+Lim, Han-Dong, and Donghwan Lee. "Regularized Q-learning." Advances in Neural Information Processing Systems 37 (2024): 129855-129887.
+</p>
+
+<p>
+Lim, Han-Dong, and Donghwan Lee. "Backstepping temporal-difference learning." International Conference on Learning Representations, ICLR 2023. International Conference on Learning Representations, 2023.
+</p>
