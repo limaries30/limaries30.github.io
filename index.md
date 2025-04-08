@@ -12,8 +12,9 @@ Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the
  My research centers on the theoretical underpinnings of reinforcement learning and control theory, with a particular interest in developing rigorous frameworks that bridge the gap between learning-based decision-making and classical control methodologies.
 </p>
 
-
-
+<p>
+My email is limaries30 at kaist dot ac dot kr and you can find my CV in this <a href="https://drive.google.com/file/d/1Zbj68niVMatSzv1sgDvWXayBZvvsRCey/view?usp=drive_link"s>link</a>.
+</p>
 
 <h2>
 Publications
@@ -34,7 +35,7 @@ Publications
 </p>
 
 <p>
-<a href="https://openreview.net/forum?id=YPChvOgRXRA"><u>Lim, H. D.</u>, & Lee, D. Backstepping Temporal Difference Learning. In The Eleventh International Conference on Learning Representations.</a>
+<a href="https://openreview.net/forum?id=YPChvOgRXRA"><u>Lim, H. D.</u>, & Lee, D. (2023). Backstepping Temporal Difference Learning. In The Eleventh International Conference on Learning Representations.</a>
 </p>
 
 

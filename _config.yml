@@ -14,11 +14,11 @@ header:
     #   slug: /
 
 footer:
-  show_powered_by: true
-  contact:
-    - type: email
-      name: Email
-      value: limaries30@kaist.ac.kr
+  #show_powered_by: true
+  # contact:
+  #   - type: email
+  #     name: Email
+  #     value: limaries30@kaist.ac.kr
 
 # Build settings
 markdown: kramdown
