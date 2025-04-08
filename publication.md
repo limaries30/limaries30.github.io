@@ -3,16 +3,10 @@ layout: publication
 title: Publication
 slug: /publication
 items:
-  - title: Regularized Q-learning
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Backstepping TD-learning
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - title: Regularized Q-learning , NeurIPS2024
+    description: Han-Dong Lim, Donghwan Lee
+  - title: Backstepping TD-learning , ICLR2023
+    description: Han-Dong Lim, Donghwan Lee
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.

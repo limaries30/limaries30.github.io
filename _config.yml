@@ -3,7 +3,7 @@
 
 title: Han-Dong Lim
 description: This is personal page of Han-Dong Lim.
-baseurl: "/bay"
+baseurl: "/"
 url: "https://limaries30.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
