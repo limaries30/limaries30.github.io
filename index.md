@@ -18,10 +18,29 @@ Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the
 <h2>
 Publications
 </h2>
+
+
 <p>
-<a href="https://openreview.net/forum?id=4sueqIwb4o"><u>Lim, Han-Dong</u>, and Donghwan Lee. "Regularized Q-learning." Advances in Neural Information Processing Systems 37 (2024): 129855-129887.</a>
+<a href="https://openreview.net/forum?id=4sueqIwb4o"> <u>Lim, H. D.</u>, & Lee, D. (2024). Regularized Q-learning. Advances in Neural Information Processing Systems, 37, 129855-129887.</a>
+</p>
+
+
+<p>
+<a href="https://ieeexplore.ieee.org/abstract/document/10711190"><u>Lim, H. D.</u>, & Lee, D. (2024). Finite-time analysis of asynchronous Q-learning under diminishing step-size from control-theoretic view. IEEE Access.</a>
 </p>
 
 <p>
-<a href="https://openreview.net/forum?id=YPChvOgRXRA"><u>Lim, Han-Dong</u>, and Donghwan Lee. "Backstepping temporal-difference learning." International Conference on Learning Representations, ICLR 2023. International Conference on Learning Representations, 2023.</a>
+<a href="https://openreview.net/forum?id=A5ulGfDBON"><u>Lim, H. D.</u>, & Lee, D. (2024). Finite-Time Analysis of Temporal Difference Learning with Experience Replay. Transactions on Machine Learning Research.</a>
 </p>
+
+<p>
+<a href="https://openreview.net/forum?id=YPChvOgRXRA"><u>Lim, H. D.</u>, & Lee, D. Backstepping Temporal Difference Learning. In The Eleventh International Conference on Learning Representations.</a>
+</p>
+
+
+
+<p>
+<a href="https://ieeexplore.ieee.org/abstract/document/9916098">Lee, D., <u>Lim, H. D.,</u> Park, J., & Choi, O. (2022). New Versions of Gradient Temporal-Difference Learning. IEEE Transactions on Automatic Control, 68(8), 5006-5013.</a>
+</p>
+
+
