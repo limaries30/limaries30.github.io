@@ -11,3 +11,17 @@ Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the
 <p>
  My research centers on the theoretical underpinnings of reinforcement learning and control theory, with a particular interest in developing rigorous frameworks that bridge the gap between learning-based decision-making and classical control methodologies.
 </p>
+
+
+
+
+<h2>
+Publications
+</h2>
+<p>
+Lim, Han-Dong, and Donghwan Lee. "Regularized Q-learning." Advances in Neural Information Processing Systems 37 (2024): 129855-129887.
+</p>
+
+<p>
+Lim, Han-Dong, and Donghwan Lee. "Backstepping temporal-difference learning." International Conference on Learning Representations, ICLR 2023. International Conference on Learning Representations, 2023.
+</p>
