@@ -13,7 +13,7 @@ Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the
 </p>
 
 <p>
-My email is limaries30 at kaist dot ac dot kr and you can find my CV in this <a href="https://drive.google.com/file/d/1Zbj68niVMatSzv1sgDvWXayBZvvsRCey/view?usp=drive_link"s>link</a>.
+My email is limaries30 at kaist dot ac dot kr and you can find my CV in this <a href="https://drive.google.com/file/d/1Zbj68niVMatSzv1sgDvWXayBZvvsRCey/view?usp=drive_link">link</a>.
 </p>
 
 <h2>
@@ -35,9 +35,13 @@ Publications
 </p>
 
 <p>
-<a href="https://openreview.net/forum?id=YPChvOgRXRA"><u>Lim, H. D.</u>, & Lee, D. (2023). Backstepping Temporal Difference Learning. In The Eleventh International Conference on Learning Representations.</a>
+ <a href="https://ieeexplore.ieee.org/abstract/document/10591854"> Lee, D., & <u>Lim, H. D.</u> (2024). Continuous-Time Distributed Dynamic Programming for Networked Multi-Agent Markov Decision Processes. In 18th IEEE International Conference on Control and Automation, ICCA 2024 (pp. 960-967). IEEE Computer Society.</a>
 </p>
 
+
+<p>
+<a href="https://openreview.net/forum?id=YPChvOgRXRA"><u>Lim, H. D.</u>, & Lee, D. (2023). Backstepping Temporal Difference Learning. In The Eleventh International Conference on Learning Representations.</a>
+</p>
 
 
 <p>
