@@ -19,7 +19,7 @@ Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the
 Publications
 </h2>
 <p>
-<a href="https://openreview.net/forum?id=4sueqIwb4o)"><u>Lim, Han-Dong</u>, and Donghwan Lee. "Regularized Q-learning." Advances in Neural Information Processing Systems 37 (2024): 129855-129887.</a>
+<a href="https://openreview.net/forum?id=4sueqIwb4o"><u>Lim, Han-Dong</u>, and Donghwan Lee. "Regularized Q-learning." Advances in Neural Information Processing Systems 37 (2024): 129855-129887.</a>
 </p>
 
 <p>
