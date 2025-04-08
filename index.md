@@ -13,7 +13,7 @@ Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the
 </p>
 
 <p>
-My email is limaries30 at kaist dot ac dot kr and you can find my CV in this <a href="https://drive.google.com/file/d/1Zbj68niVMatSzv1sgDvWXayBZvvsRCey/view?usp=drive_link">link</a>.
+My email is limaries30 at kaist dot ac dot kr and you can find my CV in this <a href="https://drive.google.com/file/d/1ztgY2rAOtejtuhXZXv3QTgBNVZZXBGWl/view?usp=sharing">link</a>.
 </p>
 
 <h2>
