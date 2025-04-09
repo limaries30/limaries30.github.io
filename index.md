@@ -6,6 +6,13 @@ profile_picture:
 ---
 
 <p>
+    <img
+            src="{{ page.profile_picture.src | absolute_url }}"
+            alt="{{ page.profile_picture.alt }}"
+            class="profile-pic"
+            width="300"
+          />
+          
 Welcome! I am a Ph.D. student in the Department of Electrical Engineering at the Korea Advanced Institute of Science and Technology (KAIST), where I am fortunate to be advised by <a href="https://sites.google.com/site/donghwanleehome">Professor Donghwan Lee</a>. I received my Bachelor's degree from Korea University in 2021 and completed my Master's degree at KAIST in 2023.</p>
 
 <p>
