@@ -3,6 +3,9 @@
 # only Main files contain this front matter, not partials.
 ---
 
+@charset "utf-8";
+
+
 @use "typography";
 
 .content {
@@ -13,7 +16,7 @@
 // # Only the main Sass file needs Front Matter
 // ---
 
-// @charset "utf-8";
+
 
 // @use "variables" with (
 //   $base-url: "{{ site.baseurl }}"
