@@ -1,19 +1,30 @@
 ---
-# Only the main Sass file needs Front Matter
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
 ---
 
-@charset "utf-8";
+@use "typography";
 
-@use "variables" with (
-  $base-url: "{{ site.baseurl }}"
-);
-@use "mixins";
-@use "extends";
+.content {
+  width: 45rem;
+  margin: 0 auto;
+}
+// ---
+// # Only the main Sass file needs Front Matter
+// ---
 
-@use "base";
-@use "layout";
-@use "site";
-@use "work";
-@use "blog";
-@use "post";
-@use "not_found";
+// @charset "utf-8";
+
+// @use "variables" with (
+//   $base-url: "{{ site.baseurl }}"
+// );
+// @use "mixins";
+// @use "extends";
+
+// @use "base";
+// @use "layout";
+// @use "site";
+// @use "work";
+// @use "blog";
+// @use "post";
+// @use "not_found";
