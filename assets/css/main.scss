@@ -3,7 +3,8 @@
 
 @charset "utf-8";
 
-@import "_typography";
+@import "typography";
+@import "minimal"
 
 .content {
   width: 45rem;
