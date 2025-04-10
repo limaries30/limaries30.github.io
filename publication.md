@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Publication
+title: Publications
 slug: /publication
 ---
 
