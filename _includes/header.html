@@ -1,23 +1,35 @@
 <header class="site-header">
   <div class="wrapper">
 
-
     <nav class="site-nav">
       <a href="#" class="menu-icon"></a>
-
+    
       <div class="menu">
-        {% for page in site.header.pages %}
-          {% if page.slug and page.slug != "" and page.slug != nil %}
-            {% assign page_link = page.slug %}
+        {% assign current_url = page.url | remove: '.html' %}
+    
+        {% for nav_page in site.header.pages %}
+          {% if nav_page.slug %}
+            {% assign page_link = nav_page.slug %}
           {% else %}
-            {% assign page_link = "/" | append: page.name | downcase %}
+            {% assign page_link = "/" | append: nav_page.name | downcase %}
           {% endif %}
+    
           {% assign page_link = page_link | absolute_url %}
-          <a class="page-link" href="{{ page_link }}">
-            {{- page.name -}}
-          </a>
+
+
+          {% if nav_page.slug == current_url %}
+            <a class="page-link page-active" href="{{ page_link }}">
+              {{ nav_page.name }}
+            </a>
+          {% else %}
+            <a class="page-link" href="{{ page_link }}">
+              {{ nav_page.name }}
+            </a>
+          {% endif %}
         {% endfor %}
       </div>
     </nav>
+    
+
   </div>
 </header>

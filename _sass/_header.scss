@@ -8,6 +8,13 @@
     width: 80%;
     margin-left: auto;
     margin-right:auto;
+
+    a{
+        &:active {
+        color: green;
+        font-weight: bold;
+      }
+    }
 }  
 
 
@@ -26,7 +33,16 @@
 .page-link {
     font-size: 30px;
     padding-right: 16px;
+
+
   }
+
+
+.page-active{
+    font-size: 30px;
+    padding-right: 16px;
+    text-decoration: underline;
+}
 
 
   a {
